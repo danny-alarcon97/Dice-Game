@@ -13,6 +13,10 @@ body {
   background-color: #393e46;
 }
 
+header {
+  text-align: center;
+}
+
 h1 {
   margin: 30px;
   font-family: "Lobster", cursive;
@@ -25,10 +29,12 @@ p {
   font-size: 2rem;
   color: #4ecca3;
   font-family: "Indie Flower", cursive;
+  padding-bottom: 2rem;
 }
 
 img {
   width: 80%;
+  border-radius: 5%;
 }
 
 footer {
