@@ -19,7 +19,6 @@ header {
 
 h1 {
   margin: 30px;
-  font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ecca3;
@@ -28,12 +27,11 @@ h1 {
 p {
   font-size: 2rem;
   color: #4ecca3;
-  font-family: "Indie Flower", cursive;
   padding-bottom: 2rem;
 }
 
 img {
-  width: 80%;
+  width: 60%;
   border-radius: 5%;
 }
 
@@ -41,5 +39,4 @@ footer {
   margin-top: 5%;
   color: #eeeeee;
   text-align: center;
-  font-family: "Indie Flower", cursive;
 }
